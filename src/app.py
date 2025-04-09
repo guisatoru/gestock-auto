@@ -1,6 +1,7 @@
 usuarios = []
 
 def soma(a,b):
+    
     return a+b
 
 def is_par(a):
